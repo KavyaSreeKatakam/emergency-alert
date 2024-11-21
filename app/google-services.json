@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098298098324",
+    "firebase_url": "https://emergencycare-6eb3c.firebaseio.com",
+    "project_id": "emergencycare-6eb3c",
+    "storage_bucket": "emergencycare-6eb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098298098324:android:4f6803f4304d84cb0b2a81",
+        "android_client_info": {
+          "package_name": "com.voidmain.emergencycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098298098324-8j7ltn4obvhjkv0d1tqnuot0r2ii9m7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voidmain.emergencycare",
+            "certificate_hash": "2c7b50eaefc382acf65efa7e68c8ba3c5f0a901d"
+          }
+        },
+        {
+          "client_id": "1098298098324-23o44co7jvbg1qhl9b965v36576gicit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQafWAgCI4Pc1ypFHPFxQM3GKSjeSPBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098298098324-23o44co7jvbg1qhl9b965v36576gicit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
